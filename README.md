@@ -87,7 +87,3 @@ Open **http://127.0.0.1:8000/** in your browser! 🚀
 
 ## **📜 License**  
 This project is **MIT licensed**. Feel free to contribute!  
-
----
-
-Let me know if you need any modifications! 🚀😊
