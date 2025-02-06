@@ -2,9 +2,9 @@
 
 ---
 
-# **📚 BookHive – A Django Book Review Platform**  
+# **📚 The Bookmark – A Django Book Review Platform**  
 
-BookHive is a **Django-based book review website** where users can browse books, read reviews, and contribute their own insights. The platform automatically **fetches book covers from online sources** and uses a default cover if none is found.  
+Bookmark is a **Django-based book review website** where users can browse books, read reviews, and contribute their own insights. The platform automatically **fetches book covers from online sources** and uses a default cover if none is found.  
 
 ## **🚀 Features**  
 - **User-Friendly Interface** 📖  
@@ -19,8 +19,8 @@ BookHive is a **Django-based book review website** where users can browse books,
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/bookhive.git
-cd bookhive
+git clone https://github.com/Hasan-Ferdous/The-Bookmark.git
+cd The-Bookmark
 ```
 
 ### **2️⃣ Create a Virtual Environment**  
@@ -57,7 +57,7 @@ Open **http://127.0.0.1:8000/** in your browser! 🚀
 ## **📂 Project Structure**  
 
 ```
-📁 bookhive/
+📁 The-Bookmark/
 │── 📁 bookreview/      # Main Django project  
 │── 📁 reviews/         # App for book reviews  
 │── 📁 static/          # CSS, JS, Images  
